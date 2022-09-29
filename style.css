@@ -38,9 +38,14 @@
 
 .profile .profile-image {
     width: 100%;
+<<<<<<< HEAD
     border-radius: 50%;
     border: 8px solid #1B2631;
  }
+=======
+    border-radius: 100%;
+}
+>>>>>>> e2000f6a654e2eb0c56b8c78ec9b086e25673e83
 
 .name {
     color: #D6DBDF;
@@ -101,6 +106,7 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+<<<<<<< HEAD
 }
 
 .experience-contents,
@@ -136,4 +142,6 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+=======
+>>>>>>> e2000f6a654e2eb0c56b8c78ec9b086e25673e83
 }
